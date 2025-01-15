@@ -1,7 +1,7 @@
 # OpenPose-Colab-Notebook
 OpenPose Colab Notebook (Working January 15th. 2025) Includes JSON to MatLab Export
 
-Thank you to @https://github.com/14790897 for doing a lot of the ground work for me back in August 2023.
+Thank you to @https://github.com/14790897 for doing a lot of the ground work for this solution back in August 2023.
 
 This is a Linux/Ubuntu notebook version of OpenPose designed to be run and excuted on Google Colab.
 I've gone ahead and rehosted all the missing files on my own personal Google Drive and this project
