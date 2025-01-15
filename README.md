@@ -1,5 +1,5 @@
 # OpenPose-Colab-Notebook
-OpenPose Colab Notebook (Working January 14th. 2025) Includes JSON to MatLab Export
+OpenPose Colab Notebook (Working January 15th. 2025) Includes JSON to MatLab Export
 
 
 This is a rebuild notebook version of OpenPose designed to be run and excuted on Google Colab.
