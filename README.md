@@ -13,5 +13,5 @@ to do a OpenPose project.
 
 This is a GPU levereged Linux/Ubuntu based build of OpenPose which also includes the JSON -> MatLab export functionality.
 
-Feel freee to reach out to me at my email raylo123wxyz@gmail.com with questions related to this project or if it seems
+Feel free to reach out to me at my email raylo123wxyz@gmail.com with questions related to this project or if it seems
 like the links are broken.
